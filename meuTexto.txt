@@ -1,2 +1,2 @@
-Estou mexendo com o Git!
 Olá, Git!
+Git é muito legal!
